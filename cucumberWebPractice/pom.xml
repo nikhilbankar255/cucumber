@@ -5,8 +5,6 @@
 	<groupId>cucumberWeb</groupId>
 	<artifactId>cucumberWeb</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-
-
 	<dependencies>
 		<dependency>
 			<groupId>io.github.bonigarcia</groupId>
@@ -26,7 +24,6 @@
 			<version>7.33.0</version>
 			<scope>test</scope>
 		</dependency>
-
 		<!-- Cucumber JUnit 4 Integration -->
 		<dependency>
 			<groupId>io.cucumber</groupId>
@@ -34,7 +31,6 @@
 			<version>7.33.0</version>
 			<scope>test</scope>
 		</dependency>
-
 		<!-- JUnit 4 -->
 		<dependency>
 			<groupId>junit</groupId>
@@ -42,7 +38,5 @@
 			<version>4.13.2</version>
 			<scope>test</scope>
 		</dependency>
-
 	</dependencies>
-
 </project>
