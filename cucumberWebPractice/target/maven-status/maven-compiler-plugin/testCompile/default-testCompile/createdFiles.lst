@@ -1,0 +1,12 @@
+StepDefinitions\LoginDemoSteps.class
+StepDefinitions\LoginDemoSteps_PageFactory.class
+StepDefinitions\LoginDemoStepsPOM.class
+StepDefinitions\TestRunner_withTags.class
+StepDefinitions\TestRunner.class
+PageFactory\LoginPagePF.class
+StepDefinitions\TestRunnerForHooks.class
+StepsForBackground\BackgroundDemoSteps.class
+StepDefinitions\TestRunnerForBackgroundDemo.class
+StepsForHooks\HooksDemoSteps.class
+Pages\LoginPage.class
+StepDefinitions\LoginSteps.class

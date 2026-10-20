@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="0.012" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-10-20T10:01:06.397146Z">
+<testcase classname="Feature to demo tags" name="Sample 1" time="0.0">
+</testcase>
+<testcase classname="Feature to demo tags" name="Sample 3" time="0.0">
+</testcase>
+</testsuite>
